@@ -1,6 +1,6 @@
 # Basic config, that must be set correctly
 baseurl: /bisnis-sistem-informasi
-githuburl: https://github.com/a-nau/markdownslides/
+githuburl: https://github.com/Rizkyyy132/mbisnis-sistem-informasi/
 
 # Further config
 markdown_slide_separator: ---
